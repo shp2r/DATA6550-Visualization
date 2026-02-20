@@ -4,6 +4,8 @@
 
 This project explores the ethical and communicative power of data visualization using the Titanic dataset. The dataset contains demographic and survival information for passengers aboard the RMS Titanic, including variables such as passenger class, age, gender, fare, and survival status.
 
+**Dataset Link:** https://www.kaggle.com/c/titanic/data
+
 The primary objective of this project is twofold:
 
 1. **Create accurate and ethical visualizations** that clearly communicate meaningful survival patterns within the dataset.
