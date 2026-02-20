@@ -6,7 +6,7 @@ This project explores the ethical and communicative power of data visualization 
 
 **Dataset Link:** https://www.kaggle.com/c/titanic/data
 
-The primary objective of this project is twofold:
+The primary objective of this project is two-fold:
 
 1. **Create accurate and ethical visualizations** that clearly communicate meaningful survival patterns within the dataset.
 2. **Create intentionally misleading visualizations** to demonstrate how design choices such as scale manipulation, selective filtering, or visual emphasis can distort interpretation.
